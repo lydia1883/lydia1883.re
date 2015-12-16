@@ -1095,8 +1095,8 @@ height:100%;
 }
 #fifth .center_box section ul li:nth-child(2) i{
 
-  background:url(http://b.hiphotos.baidu.com/baike/s=220/sign=f23b0796b74543a9f11bfdce2e178a7b/8b13632762d0f703d0ad4cbe08fa513d2697c5b1.jpg) no-repeat center center;
-  background-size:80px 80px;
+  background:url(img/github.png) no-repeat center center;
+  background-size:80px 100px;
 
 }
 #fifth .center_box article h4{
