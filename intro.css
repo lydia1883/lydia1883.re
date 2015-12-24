@@ -240,7 +240,7 @@ color:#F0F7B6;
 font-size:20px;
 }
 
-@media only screen and (min-width:970px) and (max-width:1170px){
+@media all and (min-width:970px) and (max-width:1170px){
 	
 	#first article.title h4{
 		font-size:24px;
@@ -262,7 +262,7 @@ font-size:20px;
 	
 	
 }
-@media screen and (min-width:750px) and (max-width:970px){
+@media all and (min-width:750px) and (max-width:970px){
 
 	#first article.title h4{
 		font-size:20px;
@@ -287,7 +287,7 @@ font-size:20px;
 	
 }
 
-@media screen and (min-width:568px) and (max-width:750px){
+@media all and (min-width:568px) and (max-width:750px){
 
 	#first article.title h4{
 		font-size:20px;
@@ -308,7 +308,7 @@ font-size:20px;
 	
 
 }
-@media screen and (max-width:568px){
+@media all and (max-width:568px){
 	
 	#first article.title h4{
 		display:none;
@@ -430,7 +430,7 @@ font-size:20px;
   letter-spacing:1px; 
   font-size:1em;
 }
-@media only screen and (min-width:970px) and (max-width:1170px){
+@media all and (min-width:970px) and (max-width:1170px){
 	#second .center_box{	
 		margin-top:5%;	
 	}
@@ -446,7 +446,7 @@ font-size:20px;
        line-height:1.2em;
 	}
 }
-@media screen and (min-width:750px) and (max-width:970px){
+@media all and (min-width:750px) and (max-width:970px){
 	#second .center_box{			
 		margin-top:5%;		
 	}
@@ -456,7 +456,7 @@ font-size:20px;
 	}
 }
 
-@media screen and (min-width:568px) and (max-width:750px){
+@media all and (min-width:568px) and (max-width:750px){
 	#second .center_box{		
 		margin-top:5%;	
 	}
@@ -466,7 +466,7 @@ font-size:20px;
 	}
 
 }
-@media screen and (max-width:568px){
+@media all and (max-width:568px){
 	#second .center_box{	
 			margin-top:10%;		
 		}
@@ -669,7 +669,7 @@ font-weight:bold;
 #third section ol li.active{
 	background:#CEEC3E;
 }
-@media only screen and (min-width:1170px) and (max-width:1720px){
+@media all and (min-width:1170px) and (max-width:1720px){
 	
 	#third section dl dd .intro_more{
 		float:none;
@@ -695,7 +695,7 @@ font-weight:bold;
 	}
 
 }
-@media only screen and (min-width:970px) and (max-width:1170px){
+@media all and (min-width:970px) and (max-width:1170px){
 
 	#third .dl_box dl dt h2{
 		font-size:40px;
@@ -726,7 +726,7 @@ font-weight:bold;
 
 
 }
-@media screen and (min-width:750px) and (max-width:970px){
+@media all and (min-width:750px) and (max-width:970px){
 	#third .dl_box dl dt h2{
 		font-size:40px;
 		width:100%;
@@ -761,7 +761,7 @@ font-weight:bold;
 	
 }
 
-@media screen and (min-width:568px) and (max-width:750px){
+@media all and (min-width:568px) and (max-width:750px){
 	#third .dl_box dl dt h2{
 		font-size:40px;
 		width:100%;
@@ -796,7 +796,7 @@ font-weight:bold;
 	}
 
 }
-@media screen and (max-width:568px){
+@media all and (max-width:568px){
 	#third .dl_box dl dt h2{
 		font-size:40px;
 		width:100%;
@@ -961,18 +961,18 @@ color:#fff;
   width:74%;	
 }
 
-@media only screen and (min-width:1170px) and (max-width:1720px){
+@media all and (min-width:1170px) and (max-width:1720px){
 
 	#fourth .center_box section article h4{
 		font-size:1.2em;
 	}
 }
-@media only screen and (min-width:970px) and (max-width:1170px){
+@media all and (min-width:970px) and (max-width:1170px){
 	#fourth .center_box section article h4{
 		font-size:1em;
 	}
 }
-@media screen and (min-width:750px) and (max-width:970px){
+@media all and (min-width:750px) and (max-width:970px){
 
 	#fourth .center_box section article h4{
 		font-size:1.2em;
@@ -987,7 +987,7 @@ color:#fff;
 
 }
 
-@media screen and (min-width:568px) and (max-width:750px){
+@media all and (min-width:568px) and (max-width:750px){
 	
 	#fourth .center_box section article{
 	   float:none;
@@ -1002,7 +1002,7 @@ color:#fff;
 
 
 }
-@media screen and (max-width:568px){
+@media all and (max-width:568px){
 	#fourth .center_box section article{
 	   float:none;
 	   width:100%;
@@ -1111,7 +1111,7 @@ height:100%;
 
 
 
-@media screen and (min-width:568px) and (max-width:750px){
+@media all and (min-width:568px) and (max-width:750px){
 	
 	#fifth .center_box section ul li{
 		float:none;
@@ -1125,7 +1125,7 @@ height:100%;
 
 
 }
-@media screen and (max-width:568px){
+@media all and (max-width:568px){
 	#fifth .center_box h1{
 	height:40px;
 	font-size:30px;
@@ -1262,7 +1262,7 @@ line-height:50px;
 }
 
 
-@media screen and (min-width:568px) and (max-width:750px){
+@media all and (min-width:568px) and (max-width:750px){
 	#clock ul li{
 		font-size:30px;
 	}
@@ -1284,7 +1284,7 @@ line-height:50px;
 	}
 
 }
-@media screen and (max-width:568px){
+@media all and (max-width:568px){
 	#clock ul li{
 	font-size:26px;
 	}
