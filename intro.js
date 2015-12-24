@@ -181,6 +181,33 @@ window.onload=function(){
 
      };
      Click_Img();
+     
+     var Tab_header=function(){//选项卡
+		
+		var navBox=getClass(document,'nav_box')[0];	
+		var aOl=navBox.getElementsByTagName("ol")[0];
+		var aLi=aOl.getElementsByTagName("li");
+		
+		var oBig=getId("wrapper");
+		
+		
+		for(var i=0;i<aLi.length;i++){
+			
+				aLi[i].index=i;
+				aLi[i].onclick=function(){
+										
+					for(var i=0;i<aLi.length;i++){
+						aLi[i].className="";
+						
+					}
+					this.className="active";	
+				};	
+			
+		}
+	
+	};
+	
+	Tab_header();
 
 
 
